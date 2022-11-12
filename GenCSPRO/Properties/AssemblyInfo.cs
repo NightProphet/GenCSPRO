@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("GenCSPRO")]
-[assembly: AssemblyCopyright("Copyright © 2021 Alex Grigorev")]
+[assembly: AssemblyCopyright("Copyright © 2022 Adil Grigorev")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
